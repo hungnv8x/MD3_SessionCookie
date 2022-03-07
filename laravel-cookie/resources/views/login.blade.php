@@ -28,7 +28,7 @@ Email:
 
 Password:
 
-<input type="text" name="password" value="{{ $password }}">
+<input type="password" name="password" value="{{ $password }}">
 
 <button type="submit">Login</button>
 
